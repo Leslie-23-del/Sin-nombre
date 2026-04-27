@@ -5,7 +5,7 @@ const records = [
     title: "Ser Parte",
     artist: "Disco 1",
     cover: "🟨",
-    audio: "/music/disco1.mp3",
+    audio: "https://raw.githubusercontent.com/Leslie-23-del/vinyl-project/main/public/music/disco1.mp3",
   },
   {
     title: "Nevermind",

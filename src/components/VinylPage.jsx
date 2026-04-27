@@ -5,7 +5,7 @@ const records = [
     title: "Ser Parte",
     artist: "Disco 1",
     cover: "🟨",
-    audio: ""/music/disco1.mp3",
+    audio: "/music/disco1.mp3",
   },
   {
     title: "Nevermind",
